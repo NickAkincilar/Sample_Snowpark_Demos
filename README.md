@@ -1,2 +1,3 @@
-# Sample_Snowpark_Demos
-Sample Simple Snowpark Demo Notebooks for Data Engineering &amp; Data Science
+# Sample Snowpark Demo Notebooks
+
+Please Download the sample Jupyter Notebooks to test basic Snowflake functionality.
