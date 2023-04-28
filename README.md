@@ -11,4 +11,4 @@ Read, Join, Summarize & Write large datasets via Dataframes in Snowflake.
 ### 2- Running Native Python Code/Libraries within Snowflake via UDFs
 [Snowpark_Sentiment_Analysis_Public.ipynb](https://github.com/NickAkincilar/Sample_Snowpark_Demos/blob/main/Snowpark_Sentiment_Analysis_Public.ipynb).
 
-Shows you to ingest & perform Sentiment Analysis on 16,000 Amazon Product reviews via Python NLTK library
+Shows you to ingest data from Parquet files & perform Sentiment Analysis on 16,000 Amazon Product reviews via Python NLTK library
