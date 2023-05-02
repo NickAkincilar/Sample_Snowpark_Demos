@@ -1,6 +1,6 @@
 # Sample Snowpark Demo Notebooks
 
-Please Download the sample Jupyter Notebooks to test basic Snowflake functionality.
+Please Download the sample Jupyter Notebooks to test basic Snowflake functionality. Snowpark currently requires Python 3.8 enviroment. You can easily run these notebooks via VSCODE.
 
 ### 1- Basic Data Engineering Dataframe operations 
 Read, Join, Summarize & Write large datasets via Dataframes in Snowflake.
